@@ -6,4 +6,4 @@ export default function divideFunction(numerator, denominator) {
     const result = numerator / denominator;
 
     return result;
-  }
+}
